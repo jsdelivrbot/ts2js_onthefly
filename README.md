@@ -5,7 +5,7 @@ Automated the process to get latest *typescriptServices.js* file from [Microsoft
 
 #### Setup & proceed
 1. Open **terminal** app
-2. Run `sh setup.sh` command
+2. Run `sh setup.sh` command to update *typescriptServices.js* file
 3. Run `suxm` command  to launch server
 4. Click on *demo* link
 4. That's it! You're ready to go
@@ -16,5 +16,5 @@ Automated the process to get latest *typescriptServices.js* file from [Microsoft
  - [suxm](https://github.com/isurfer21/Suxm)
 
 #### References:
- - [https://github.com/niutech/typescript-compile](https://github.com/niutech/typescript-compile)
- - [https://github.com/basarat/typescript-script](https://github.com/basarat/typescript-script)
+ - [niutech/typescript-compile](https://github.com/niutech/typescript-compile)
+ - [basarat/typescript-script](https://github.com/basarat/typescript-script)
